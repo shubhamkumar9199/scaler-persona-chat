@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import './App.css';
 
-const API_URL = process.env.REACT_APP_API_URL || 'https://chat-persona.onrender.com/chat';
+const API_URL = process.env.REACT_APP_API_URL || 'https://scaler-persona-chat.onrender.com/chat';
 const PERSONAS = ['anshuman', 'abhimanyu', 'kshitij'];
 const SUGGESTIONS = [
   'How to learn coding?',
