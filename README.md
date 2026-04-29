@@ -4,19 +4,6 @@ A chatbot where you can talk to three Scaler / InterviewBit personalities — **
 
 Built for the Prompt Engineering assignment at Scaler Academy.
 
-## Live Demo
-
-> Frontend: _add Vercel/Netlify link here once deployed_
->
-> Backend: _add Render link here once deployed_
-
-## Screenshots
-
-> Drop screenshots in a `screenshots/` folder and link them here:
->
-> `![chat ui](screenshots/chat.png)`
-> `![persona switcher](screenshots/personas.png)`
-
 ## What it does
 
 - Switch between three personas with one click
